@@ -17,10 +17,15 @@ header
 content
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     width: 100%;
 }
 body
 {
-    background-color: red;
+    background-color: grey;
+}
+
+#block:hover
+{
+      transform: scale(1.2);
 }
