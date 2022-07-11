@@ -1,0 +1,26 @@
+#block
+{
+   width: 400px;
+   display:flex;
+   flex-direction:column;
+   margin:50px;
+   border:2px solid rgb(23, 226, 50);
+}
+header
+{
+ text-align: center;
+ background-color: aqua;
+ text-color: green;
+ height: 80xp;
+ width: 100%;
+}
+content
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+body
+{
+    background-color: red;
+}
